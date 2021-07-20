@@ -11,6 +11,9 @@ and [Pyrogram Smart Plugin](https://docs.pyrogram.org/topics/smart-plugins)
 It's recommended to use [tgmusicbot](https://github.com/callsmusic/tgmusicbot)
 along with this userbot.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdulla034/tgvc-userbot)
+
+
 ## Introduction
 
 **Features**
